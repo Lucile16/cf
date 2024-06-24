@@ -1,0 +1,9 @@
+
+
+java:S1192	"UDefine a constant instead of duplicating this literal "La 9eme de Beethoven" 3 times.(«âŠÁøÿÿÿÿ8ƒ‹ŒÓ„2J$7914447a-6a8d-4992-8741-6eb3330e472c
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑëËÿÿÿÿÿ8Ğõ‰Ó„2J$08714903-9330-4ca7-801a-deda83bf5e86
+r	java:S106"+Replace this use of System.out by a logger.(û‰³Ôüÿÿÿÿ8Òõ‰Ó„2J$c4d22519-2f0b-44bc-b666-a685d71c03b0
+r	java:S106"+Replace this use of System.out by a logger.(êÉõ¦øÿÿÿÿ8Ôõ‰Ó„2J$c69896ce-ac14-4aae-a9db-854d3ed29d83
+r	java:S106"+Replace this use of System.out by a logger.(ñş£¿øÿÿÿÿ8Ôõ‰Ó„2J$085cee6a-a3a0-4b5b-9f75-7bd9a76de3e2
+r	java:S106"+Replace this use of System.out by a logger.(™Ùûûÿÿÿÿ8‹‹ŒÓ„2J$657fb64e-90ef-40c4-b8b4-c7a78b12b576
